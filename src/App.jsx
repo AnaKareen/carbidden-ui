@@ -39,9 +39,9 @@ export default function App() {
   return (
     < div style={{
         background: "radial-gradient(circle at top, #111 0%, #050505 70%)",
-        minHeight: "100%",
-        height: "100%",
-        width: "100%",
+        minHeight: "90hv",
+        height: "90hv",
+        width: "90hv",
         color: "white",
         fontFamily: "Inter, Arial",
         display: "flex",
